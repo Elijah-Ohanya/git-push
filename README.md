@@ -1,6 +1,6 @@
 # git-push
 ## okay
 
--- okay
+-- okay --
 
 * okay
